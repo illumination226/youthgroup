@@ -1,4 +1,8 @@
 Youthgroup::Application.routes.draw do
+  resources :prayers
+
+  resources :announcements
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
