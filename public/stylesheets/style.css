@@ -36,7 +36,7 @@ html {
 }
 
 body {
-	background: #797E84 url('img/body.jpg');
+	background: #797E84 url('/img/body.jpg');
 	color: #444;
 	font: normal 80% sans-serif;
 	line-height: 1.5;
@@ -429,11 +429,11 @@ div.comment_list {
 /* General wrappers */
 
 #layout_wrapper {
-	background: url('img/layout_wrapper.jpg') repeat-x;
+	background: url('/img/layout_wrapper.jpg') repeat-x;
 	padding-bottom: 16px;
 }
 #layout_wrapper2 {
-	background: url('img/layout_wrapper2.jpg') no-repeat center top;
+	background: url('/img/layout_wrapper2.jpg') no-repeat center top;
 	padding-top: 90px;
 }
 #layout_wrapper3 {
@@ -447,7 +447,7 @@ div.comment_list {
 /* Header */
 
 #header_wrapper {
-	background: #222 url('img/header.jpg') repeat-x;
+	background: #222 url('/img/header.jpg') repeat-x;
 	height: 150px;
 }
 #header {padding: 48px 48px 0 48px;}
@@ -470,7 +470,7 @@ div.comment_list {
 /* Navigation */
 
 #navigation {
-	background: #6E7D85 url('img/navigation.gif') repeat-x;
+	background: #6E7D85 url('/img/navigation.gif') repeat-x;
 	margin-bottom: 3px;
 	padding-top: 4px;
 }
@@ -510,12 +510,12 @@ div.comment_list {
 /* Main */
 
 #main_wrapper {
-	background: url('img/main_wrapper.gif') repeat-y;
+	background: url('/img/main_wrapper.gif') repeat-y;
 	border-bottom: 1px solid #C3C4C1;
 	margin-bottom: 3px;
 }
 #main {
-	background: url('img/main.gif') no-repeat;
+	background: url('/img/main.gif') no-repeat;
 	padding: 24px 0;
 }
 #content_wrapper {width: 690px;}
@@ -532,7 +532,7 @@ div.comment_list {
 
 #dashboard_wrapper {}
 #dashboard {
-	background: #C9CDCF url('img/dashboard.gif') repeat-x;
+	background: #C9CDCF url('/img/dashboard.gif') repeat-x;
 	border: 1px solid #ACAFB0;
 	color: #404448;
 	margin-bottom: 3px;
